@@ -42,9 +42,9 @@ external_links = [
         "target": "_self"
     },
     {
-        "name": "日志",
+        "name": "朝花夕拾",
         "url": "${site_prefix}archives/day/",
-        "brief": "记录心情",
+        "brief": "落花人独立",
         "target": "_day"
     }
 
